@@ -1,0 +1,7 @@
+C:\Users\esra\source\repos\BMI_Console_App\BMI_Console_App\bin\Debug\BMI_Console_App.exe.config
+C:\Users\esra\source\repos\BMI_Console_App\BMI_Console_App\bin\Debug\BMI_Console_App.exe
+C:\Users\esra\source\repos\BMI_Console_App\BMI_Console_App\bin\Debug\BMI_Console_App.pdb
+C:\Users\esra\source\repos\BMI_Console_App\BMI_Console_App\obj\Debug\BMI_Console_App.csprojAssemblyReference.cache
+C:\Users\esra\source\repos\BMI_Console_App\BMI_Console_App\obj\Debug\BMI_Console_App.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\BMI_Console_App\BMI_Console_App\obj\Debug\BMI_Console_App.exe
+C:\Users\esra\source\repos\BMI_Console_App\BMI_Console_App\obj\Debug\BMI_Console_App.pdb
