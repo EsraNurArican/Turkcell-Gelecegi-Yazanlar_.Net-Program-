@@ -1,0 +1,7 @@
+C:\Users\esra\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.exe.config
+C:\Users\esra\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.exe
+C:\Users\esra\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\bin\Debug\SayiBulmacaOyunu.pdb
+C:\Users\esra\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.csprojAssemblyReference.cache
+C:\Users\esra\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.exe
+C:\Users\esra\source\repos\SayiBulmacaOyunu\SayiBulmacaOyunu\obj\Debug\SayiBulmacaOyunu.pdb
