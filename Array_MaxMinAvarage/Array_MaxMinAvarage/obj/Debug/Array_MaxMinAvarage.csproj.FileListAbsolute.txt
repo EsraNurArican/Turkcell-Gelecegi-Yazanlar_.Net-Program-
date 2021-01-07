@@ -1,0 +1,7 @@
+C:\Users\esra\source\repos\Array_MaxMinAvarage\Array_MaxMinAvarage\bin\Debug\Array_MaxMinAvarage.exe.config
+C:\Users\esra\source\repos\Array_MaxMinAvarage\Array_MaxMinAvarage\bin\Debug\Array_MaxMinAvarage.exe
+C:\Users\esra\source\repos\Array_MaxMinAvarage\Array_MaxMinAvarage\bin\Debug\Array_MaxMinAvarage.pdb
+C:\Users\esra\source\repos\Array_MaxMinAvarage\Array_MaxMinAvarage\obj\Debug\Array_MaxMinAvarage.csprojAssemblyReference.cache
+C:\Users\esra\source\repos\Array_MaxMinAvarage\Array_MaxMinAvarage\obj\Debug\Array_MaxMinAvarage.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\Array_MaxMinAvarage\Array_MaxMinAvarage\obj\Debug\Array_MaxMinAvarage.exe
+C:\Users\esra\source\repos\Array_MaxMinAvarage\Array_MaxMinAvarage\obj\Debug\Array_MaxMinAvarage.pdb
