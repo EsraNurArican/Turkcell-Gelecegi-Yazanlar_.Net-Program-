@@ -1,0 +1,7 @@
+C:\Users\esra\source\repos\AsalSayılar_DegerAralıgında\AsalSayılar_DegerAralıgında\bin\Debug\AsalSayılar_DegerAralıgında.exe.config
+C:\Users\esra\source\repos\AsalSayılar_DegerAralıgında\AsalSayılar_DegerAralıgında\bin\Debug\AsalSayılar_DegerAralıgında.exe
+C:\Users\esra\source\repos\AsalSayılar_DegerAralıgında\AsalSayılar_DegerAralıgında\bin\Debug\AsalSayılar_DegerAralıgında.pdb
+C:\Users\esra\source\repos\AsalSayılar_DegerAralıgında\AsalSayılar_DegerAralıgında\obj\Debug\AsalSayılar_DegerAralıgında.csprojAssemblyReference.cache
+C:\Users\esra\source\repos\AsalSayılar_DegerAralıgında\AsalSayılar_DegerAralıgında\obj\Debug\AsalSayılar_DegerAralıgında.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\AsalSayılar_DegerAralıgında\AsalSayılar_DegerAralıgında\obj\Debug\AsalSayılar_DegerAralıgında.exe
+C:\Users\esra\source\repos\AsalSayılar_DegerAralıgında\AsalSayılar_DegerAralıgında\obj\Debug\AsalSayılar_DegerAralıgında.pdb

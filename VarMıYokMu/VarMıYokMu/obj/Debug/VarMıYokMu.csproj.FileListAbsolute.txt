@@ -1,0 +1,6 @@
+C:\Users\esra\source\repos\VarMıYokMu\VarMıYokMu\bin\Debug\VarMıYokMu.exe.config
+C:\Users\esra\source\repos\VarMıYokMu\VarMıYokMu\bin\Debug\VarMıYokMu.exe
+C:\Users\esra\source\repos\VarMıYokMu\VarMıYokMu\bin\Debug\VarMıYokMu.pdb
+C:\Users\esra\source\repos\VarMıYokMu\VarMıYokMu\obj\Debug\VarMıYokMu.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\VarMıYokMu\VarMıYokMu\obj\Debug\VarMıYokMu.exe
+C:\Users\esra\source\repos\VarMıYokMu\VarMıYokMu\obj\Debug\VarMıYokMu.pdb
