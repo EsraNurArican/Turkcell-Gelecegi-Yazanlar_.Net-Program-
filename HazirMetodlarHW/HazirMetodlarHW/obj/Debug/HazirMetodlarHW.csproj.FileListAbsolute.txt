@@ -1,0 +1,7 @@
+C:\Users\esra\source\repos\HazirMetodlarHW\HazirMetodlarHW\bin\Debug\HazirMetodlarHW.exe.config
+C:\Users\esra\source\repos\HazirMetodlarHW\HazirMetodlarHW\bin\Debug\HazirMetodlarHW.exe
+C:\Users\esra\source\repos\HazirMetodlarHW\HazirMetodlarHW\bin\Debug\HazirMetodlarHW.pdb
+C:\Users\esra\source\repos\HazirMetodlarHW\HazirMetodlarHW\obj\Debug\HazirMetodlarHW.csprojAssemblyReference.cache
+C:\Users\esra\source\repos\HazirMetodlarHW\HazirMetodlarHW\obj\Debug\HazirMetodlarHW.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\HazirMetodlarHW\HazirMetodlarHW\obj\Debug\HazirMetodlarHW.exe
+C:\Users\esra\source\repos\HazirMetodlarHW\HazirMetodlarHW\obj\Debug\HazirMetodlarHW.pdb

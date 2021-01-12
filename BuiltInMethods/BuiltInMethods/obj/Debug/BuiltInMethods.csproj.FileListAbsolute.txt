@@ -1,0 +1,7 @@
+C:\Users\esra\source\repos\BuiltInMethods\BuiltInMethods\bin\Debug\BuiltInMethods.exe.config
+C:\Users\esra\source\repos\BuiltInMethods\BuiltInMethods\bin\Debug\BuiltInMethods.exe
+C:\Users\esra\source\repos\BuiltInMethods\BuiltInMethods\bin\Debug\BuiltInMethods.pdb
+C:\Users\esra\source\repos\BuiltInMethods\BuiltInMethods\obj\Debug\BuiltInMethods.csprojAssemblyReference.cache
+C:\Users\esra\source\repos\BuiltInMethods\BuiltInMethods\obj\Debug\BuiltInMethods.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\BuiltInMethods\BuiltInMethods\obj\Debug\BuiltInMethods.exe
+C:\Users\esra\source\repos\BuiltInMethods\BuiltInMethods\obj\Debug\BuiltInMethods.pdb
