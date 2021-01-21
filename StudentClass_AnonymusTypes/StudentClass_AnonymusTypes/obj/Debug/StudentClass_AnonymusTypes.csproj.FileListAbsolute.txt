@@ -1,0 +1,7 @@
+C:\Users\esra\source\repos\StudentClass_AnonymusTypes\StudentClass_AnonymusTypes\bin\Debug\StudentClass_AnonymusTypes.exe.config
+C:\Users\esra\source\repos\StudentClass_AnonymusTypes\StudentClass_AnonymusTypes\bin\Debug\StudentClass_AnonymusTypes.exe
+C:\Users\esra\source\repos\StudentClass_AnonymusTypes\StudentClass_AnonymusTypes\bin\Debug\StudentClass_AnonymusTypes.pdb
+C:\Users\esra\source\repos\StudentClass_AnonymusTypes\StudentClass_AnonymusTypes\obj\Debug\StudentClass_AnonymusTypes.csprojAssemblyReference.cache
+C:\Users\esra\source\repos\StudentClass_AnonymusTypes\StudentClass_AnonymusTypes\obj\Debug\StudentClass_AnonymusTypes.csproj.CoreCompileInputs.cache
+C:\Users\esra\source\repos\StudentClass_AnonymusTypes\StudentClass_AnonymusTypes\obj\Debug\StudentClass_AnonymusTypes.exe
+C:\Users\esra\source\repos\StudentClass_AnonymusTypes\StudentClass_AnonymusTypes\obj\Debug\StudentClass_AnonymusTypes.pdb
